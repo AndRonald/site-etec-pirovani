@@ -36,7 +36,7 @@ header{
 
 .text_pirovani {
     color:var(--sec);
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .imagcontainer {
@@ -175,9 +175,15 @@ footer a{
 
     .botoes_clink_link{
         flex-wrap: wrap;
+        gap: 13px;
     }
     .botoes_clink_link_{
         flex-wrap: wrap;
+        gap: 13px;
+    }
+
+    .botoes_click_{
+        font-size: %;
     }
 
     #footer_content{
