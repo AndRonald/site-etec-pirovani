@@ -81,7 +81,7 @@ a{
 .botoes_click_{
     display: flex;
     justify-content: center;
-    padding: 12%; 
+    padding: 10%; 
     font-size: 1.5rem;
 }
 
@@ -148,7 +148,7 @@ footer a{
     width: 50%;   
     text-align: center;
     border-radius: 40px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 600;
     text-decoration: none;
     background-color: var(--princ);
@@ -183,7 +183,7 @@ footer a{
     }
 
     .botoes_click_{
-        font-size: %;
+        font-size: 1.5rem;
     }
 
     #footer_content{
@@ -195,4 +195,3 @@ footer a{
         margin-top: 10%;
     }
 }
- 
